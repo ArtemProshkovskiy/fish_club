@@ -573,7 +573,7 @@ body {
 .datepicker-toggle-button {
     width: 19px;
     height: 20px;
-    background-image: url('/assets/img/offer/calendar-icon.png');
+    background-image: url('../img/offer/calendar-icon.png');
     background-repeat: no-repeat;
 }
 
