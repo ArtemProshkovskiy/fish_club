@@ -100,7 +100,7 @@ body {
 
 .header {
     height: 1080px;
-    background: url("/assets/img/header/back.png") no-repeat;
+    background: url("../img/header/back.png") no-repeat;
     background-size: cover;
 }
 
@@ -735,7 +735,7 @@ body {
 /*rectangle*/
 
 .rectangle1 {
-    background: url("/assets/img/regtangle/1.png") no-repeat;
+    background: url("../img/regtangle/1.png") no-repeat;
     background-size: cover;
     height: 342px;
     width: 100%;
@@ -949,7 +949,7 @@ body {
 /*rectangle2*/
 
 .rectangle2 {
-    background: url("/assets/img/regtangle/2.png") no-repeat;
+    background: url("../img/regtangle/2.png") no-repeat;
     background-size: cover;
     height: 342px;
     width: 100%;
@@ -1107,7 +1107,7 @@ body {
 /*rectangle3*/
 
 .rectangle3 {
-    background: url("/assets/img/regtangle/3.png") no-repeat;
+    background: url("../img/regtangle/3.png") no-repeat;
     background-size: cover;
     height: 342px;
     width: 100%;
